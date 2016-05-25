@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <!-- <iconback img1="iconback" />
+    <iconmask img1="iconmask" />
+    <iconupon img1="iconupon" />
+    <scale factor=".7" /> -->
+
+
+    <item component="ComponentInfo{net.ia.iawriter/net.ia.iawriter.editor.EditorActivity}"
+        drawable="ia" />
+
+    <item
+        component="ComponentInfo{com.qidian.QDReader.g/com.qidian.QDReader.SplashActivity}"
+        drawable="qidian" />
+    <item
+        component="ComponentInfo{com.qidian.QDReader/com.qidian.QDReader.SplashActivity}"
+        drawable="qidian" />
+
+    <item
+        component="ComponentInfo{com.doubleTwist.cloudPlayer/com.doubleTwist.cloudPlayer.HomeActivity}"
+        drawable="music" />
+
+    <item
+        component="ComponentInfo{com.framerjs.android/com.framerjs.android.activity.Viewer}"
+        drawable="framer" />
+
+    <item
+        component="ComponentInfo{com.linecorp.linewru/com.line.brown.login.LoginActivity}"
+        drawable="linehere" />
+
+    <item
+        component="ComponentInfo{com.facebook.moments/com.facebook.moments.MomentsStartActivity}"
+        drawable="moments" />
+
+    <item
+        component="ComponentInfo{jp.united.app.kanahei.money/jp.united.app.kanahei.money.controller.TopActivity}"
+        drawable="pisuke" />
+
+
+    <item
+        component="ComponentInfo{com.getpebble.android.basalt/com.getpebble.android.main.activity.MainActivity}"
+        drawable="pebble" />
+
+    <item
+        component="ComponentInfo{com.Slack/com.Slack.ui.HomeActivity}"
+        drawable="slack" />
+
+    <item
+        component="ComponentInfo{solda.io.android/solda.io.android.ui.activity.LoginActivity}"
+        drawable="solda" />
+
+    <item
+        component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.MapsActivity}"
+        drawable="map" />
+
+    <item
+        component="ComponentInfo{com.cyngn.maxxaudio/com.cyngn.maxxaudio.activity.ActivityMusic}"
+        drawable="audiofx" />
+    <item
+        component="ComponentInfo{com.journey.app/com.journey.app.MainActivity}"
+        drawable="journey" />
+
+</resources>
