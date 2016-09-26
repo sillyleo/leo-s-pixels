@@ -2,20 +2,20 @@
 <familyset version="22">
     <!-- first font is default -->
     <family name="sans-serif">
-        <font weight="100" style="normal">zpix.ttc</font>
-        <font weight="100" style="italic">zpix.ttc</font>
-        <font weight="300" style="normal">zpix.ttc</font>
-        <font weight="300" style="italic">zpix.ttc</font>
+        <font weight="100" style="normal">Zpix.ttf</font>
+        <font weight="100" style="italic">Zpix.ttf</font>
+        <font weight="300" style="normal">Zpix.ttf</font>
+        <font weight="300" style="italic">Zpix.ttf</font>
 
-        <font weight="400" style="normal">zpix.ttc</font>
-        <font weight="400" style="italic">zpix.ttc</font>
-        <font weight="500" style="normal">zpix.ttc</font>
-        <font weight="500" style="italic">zpix.ttc</font>
+        <font weight="400" style="normal">Zpix.ttf</font>
+        <font weight="400" style="italic">Zpix.ttf</font>
+        <font weight="500" style="normal">Zpix.ttf</font>
+        <font weight="500" style="italic">Zpix.ttf</font>
 
-        <font weight="700" style="normal">zpix.ttc</font>
-        <font weight="700" style="italic">zpix.ttc</font>
-        <font weight="900" style="normal">zpix.ttc</font>
-        <font weight="900" style="italic">zpix.ttc</font>
+        <font weight="700" style="normal">Zpix.ttf</font>
+        <font weight="700" style="italic">Zpix.ttf</font>
+        <font weight="900" style="normal">Zpix.ttf</font>
+        <font weight="900" style="italic">Zpix.ttf</font>
     </family>
 
     <!-- Note that aliases must come after the fonts they reference. -->
@@ -29,20 +29,28 @@
     <alias name="verdana" to="sans-serif" />
 
     <family name="sans-serif-condensed">
-        <font weight="300" style="normal">zpix.ttc</font>
-        <font weight="300" style="italic">zpix.ttc</font>
-        <font weight="400" style="normal">zpix.ttc</font>
-        <font weight="400" style="italic">zpix.ttc</font>
-        <font weight="700" style="normal">zpix.ttc</font>
-        <font weight="700" style="italic">zpix.ttc</font>
+        <font weight="100" style="normal">Zpix.ttf</font>
+        <font weight="100" style="italic">Zpix.ttf</font>
+        <font weight="300" style="normal">Zpix.ttf</font>
+        <font weight="300" style="italic">Zpix.ttf</font>
+
+        <font weight="400" style="normal">Zpix.ttf</font>
+        <font weight="400" style="italic">Zpix.ttf</font>
+        <font weight="500" style="normal">Zpix.ttf</font>
+        <font weight="500" style="italic">Zpix.ttf</font>
+
+        <font weight="700" style="normal">Zpix.ttf</font>
+        <font weight="700" style="italic">Zpix.ttf</font>
+        <font weight="900" style="normal">Zpix.ttf</font>
+        <font weight="900" style="italic">Zpix.ttf</font>
     </family>
     <alias name="sans-serif-condensed-light" to="sans-serif-condensed" weight="300" />
 
     <family name="serif">
-        <font weight="400" style="normal">zpix.ttc</font>
-        <font weight="700" style="normal">zpix.ttc</font>
-        <font weight="400" style="italic">zpix.ttc</font>
-        <font weight="700" style="italic">zpix.ttc</font>
+        <font weight="400" style="normal">Zpix.ttf</font>
+        <font weight="700" style="normal">Zpix.ttf</font>
+        <font weight="400" style="italic">Zpix.ttf</font>
+        <font weight="700" style="italic">Zpix.ttf</font>
     </family>
     <alias name="times" to="serif" />
     <alias name="times new roman" to="serif" />
@@ -54,27 +62,27 @@
     <alias name="ITC Stone Serif" to="serif" />
 
     <family name="monospace">
-        <font weight="400" style="normal">zpix.ttc</font>
+        <font weight="400" style="normal">Zpix.ttf</font>
     </family>
     <alias name="sans-serif-monospace" to="monospace" />
     <alias name="monaco" to="monospace" />
 
     <family name="serif-monospace">
-        <font weight="400" style="normal">zpix.ttc</font>
+        <font weight="400" style="normal">Zpix.ttf</font>
     </family>
     <alias name="courier" to="serif-monospace" />
     <alias name="courier new" to="serif-monospace" />
 
     <family name="casual">
-        <font weight="400" style="normal">zpix.ttc</font>
+        <font weight="400" style="normal">Zpix.ttf</font>
     </family>
 
     <family name="cursive">
-        <font weight="400" style="normal">zpix.ttc</font>
-        <font weight="700" style="normal">zpix.ttc</font>
+        <font weight="400" style="normal">Zpix.ttf</font>
+        <font weight="700" style="normal">Zpix.ttf</font>
     </family>
 
     <family name="sans-serif-smallcaps">
-        <font weight="400" style="normal">zpix.ttc</font>
+        <font weight="400" style="normal">Zpix.ttf</font>
     </family>
 </familyset>
